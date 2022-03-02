@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi :sun_with_face:
+### :sunrise_over_mountains: About me:
+I am a Machine Learning Engineer from Poland.
+- :ocean: I'm interested in NLP, Neuroscience and intersection between ML and Art.
+- :telephone_receiver: How to reach me: via [mail](bartosz.k.roguski@gmail.com).
 
 <!--
 **bartoszkroguski/bartoszkroguski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
