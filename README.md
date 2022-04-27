@@ -2,9 +2,9 @@
 ## Hi :pray: 
 ### :sunrise_over_mountains: About me:
 I am a Machine Learning Engineer from Poland.
-- :ocean: I'm interested in ***NLP***, ***Neuroscience*** and intersection between ***ML and Art***.
+- I'm interested in ***NLP***, ***Neuroscience***, ***Art***, ***Language***, and ***other things***
 - :hatching_chick: I'm currently working on ***NLP for Polish***
-- :seedling: I’m currently learning ***DVC, PyTorch, [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/), Mathemathics for Machine Learning***
+- :seedling: I’m currently learning ***[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/), Mathemathics for Machine Learning, DVC***
 - :telephone_receiver: How to reach me: [mail](bartosz.k.roguski@gmail.com).
 
 <!-- <h3 align="left">Languages and Tools:</h3>
