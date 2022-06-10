@@ -3,7 +3,10 @@
 ### About me:
 I am a Machine Learning Engineer from Poland.
 - I'm interested in ***Deep Learning***, ***Neuroscience***, ***Art***, ***Language***, and ***other things***
-- :hatching_chick: I'm currently working on ***Fine-tuning RoBERTa for Question Answering in Polish***, ***Coreference Resolution for Polish***, ***building chatbot with Rasa, Haystack and RoBERTa***
+- :hatching_chick: I'm currently working on
+  - ***Fine-tuning RoBERTa for Question Answering in Polish***,
+  - ***Coreference Resolution for Polish***,
+  - ***building chatbot with Rasa, Haystack and RoBERTa***
 - :seedling: I’m currently learning ***[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/), Calculus, Linear Algebra***
 - :telephone_receiver: How to reach me: [mail](bartosz.k.roguski@gmail.com).
 
