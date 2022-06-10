@@ -7,7 +7,7 @@ I am a Machine Learning Engineer from Poland.
   - Neuroscience,
   - art,
   - music,
-  -and ***other things***
+  - and other things
 - :hatching_chick: I'm currently working on
   - Fine-tuning RoBERTa for Question Answering in Polish,
   - Coreference Resolution for Polish,
