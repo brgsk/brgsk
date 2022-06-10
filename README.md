@@ -2,7 +2,12 @@
 ## Hi :pray: 
 ### About me:
 I am a Machine Learning Engineer from Poland.
-- I'm interested in ***Deep Learning***, ***Neuroscience***, ***Art***, ***Language***, and ***other things***
+- I'm interested in
+  - Deep Learning,
+  - Neuroscience,
+  - art,
+  - music,
+  -and ***other things***
 - :hatching_chick: I'm currently working on
   - Fine-tuning RoBERTa for Question Answering in Polish,
   - Coreference Resolution for Polish,
