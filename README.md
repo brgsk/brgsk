@@ -8,14 +8,14 @@ I am a Machine Learning Engineer from Poland.
   - art,
   - music,
   - and other things
-- :hatching_chick: I'm currently working on
+- :microscope: I'm currently working on
   - Fine-tuning RoBERTa for Question Answering in Polish,
   - Coreference Resolution for Polish,
   - building chatbot with Rasa, Haystack and RoBERTa
-- :seedling: I’m currently learning
+- :seedling: I’m currently learning :books:
   - Calculus,
-  - Linear Algebra
-  - Docker
+  - Linear Algebra,
+  - Docker,
   - Haskell
 - :telephone_receiver: How to reach me: [mail](bartosz.k.roguski@gmail.com).
 
