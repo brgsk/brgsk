@@ -13,10 +13,16 @@ I am a Machine Learning Engineer from Poland.
   - Coreference Resolution for Polish,
   - building chatbot with Rasa, Haystack and RoBERTa
 - :seedling: I’m currently learning :books:
-  - Calculus,
-  - Linear Algebra,
+  - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction):
+    - [x] [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)
+    - [ ] [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms)
+    - [ ] [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)
+  - Maths for Machine Learning:
+    - Calculus,
+    - Linear Algebra,
   - Docker,
   - Haskell
+  - Golang
 - :telephone_receiver: How to reach me: [mail](bartosz.k.roguski@gmail.com).
 
 <!-- <h3 align="left">Languages and Tools:</h3>
