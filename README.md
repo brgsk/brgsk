@@ -1,46 +1,43 @@
-
-## Hi :pray: 
-### About me:
-I am a Machine Learning Engineer from Poland.
+## Hi 🤙 
+### About me 👤:
+I am a Python Developer / Machine Learning ~~Engineer~~ Enthusiast from Poland.
 - I'm interested in
   - Deep Learning,
   - Neuroscience,
-  - art,
-  - music,
-  - and other things
-- :microscope: I'm currently working on
-  - Fine-tuning RoBERTa for Question Answering in Polish,
-  - Coreference Resolution for Polish,
-  - building chatbot with Rasa, Haystack and RoBERTa
+  - Art,
+  - Music,
+  - and Other Things
+- :ant: I'm currently working on
+  - [x] ~~Fine-tuning RoBERTa for Question Answering in Polish~~
+  - [x] ~~Coreference Resolution for Polish~~
+  - [x] ~~building chatbot with Rasa, Haystack and RoBERTa~~
+  - [ ] backend for Filmder - Tinder for films 📽️
 - :seedling: I’m currently learning :books:
-  - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction):
-    - [x] [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)
+  - [ ] [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction):
+    - [x] [~~Supervised Machine Learning: Regression and Classification~~](https://www.coursera.org/learn/machine-learning)
     - [ ] [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms)
     - [ ] [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)
-  - Maths for Machine Learning:
-    - Calculus,
-    - Linear Algebra,
-  - Docker,
-  - Haskell
-  - Golang
+  - [ ] Maths for Machine Learning:
+    - [ ] Calculus,
+    - [ ] Linear Algebra,
+  - [x] ~~GraphQL~~
+  - [ ] Docker
+  - [ ] NestJS
+ 
+ ## Tools I like and/or use
+ <!-- [![HitCount](https://hits.dwyl.com/brgsk/brgsk.svg?style=flat-square&show=unique)](http://hits.dwyl.com/brgsk/brgsk) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- ![image](https://activity-graph.herokuapp.com/graph?username=brgsk&theme=minimal) -->
+![obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
+![image](https://img.shields.io/badge/PyTorch%20Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+<!-- ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=brgsk) -->
+
 - :telephone_receiver: How to reach me: [mail](bartosz.k.roguski@gmail.com).
-
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bartoszkroguski&show_icons=true&locale=en" alt="bartoszkroguski" /></p>
-
-**bartoszkroguski/bartoszkroguski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
- -->
+<!-- ![ja](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white) -->
