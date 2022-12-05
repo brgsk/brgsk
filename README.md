@@ -25,8 +25,9 @@ I am a Python Developer / Machine Learning ~~Engineer~~ Enthusiast from Poland.
   - [ ] NestJS
  
  ## Tools I like and/or use
+ 
  <!-- [![HitCount](https://hits.dwyl.com/brgsk/brgsk.svg?style=flat-square&show=unique)](http://hits.dwyl.com/brgsk/brgsk) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![image](https://activity-graph.herokuapp.com/graph?username=brgsk&theme=minimal) -->
 ![obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 ![image](https://img.shields.io/badge/PyTorch%20Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white)
