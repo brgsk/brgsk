@@ -3,15 +3,15 @@
 
 I am a Python Developer / Machine Learning ~~Engineer~~ Enthusiast from Poland.
 
-##### :ant: I'm currently working on
+##### I'm currently working on 🐜
 
-- [ ] Filmder - Tinder for films 📽️
+- Filmder - Tinder for films 📽️
 
 ##### My previous projects
 
-- [x] ~~Fine-tuning RoBERTa for Question Answering in Polish~~
-- [x] ~~Coreference Resolution for Polish~~
-- [x] ~~building chatbot with Rasa, Haystack and RoBERTa~~
+- Fine-tuning RoBERTa for Question Answering in Polish ¿?
+- Coreference Resolution for Polish
+- building chatbot with Rasa, Haystack and RoBERTa 🤖
 
  ### Tools I like and/or use
  
