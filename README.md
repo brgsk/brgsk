@@ -5,7 +5,8 @@ I am a Python Developer / Machine Learning ~~Engineer~~ Enthusiast from Poland.
 
 ##### I'm currently working on 🐜
 
-- Filmder - Tinder for films 📽️
+- Filmder - Tinder (but for couples) for finding films 📽️
+- [Poetry generation with GPT-2](https://github.com/brgsk/poetry-generation)
 
 ##### My previous projects
 
