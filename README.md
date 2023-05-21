@@ -1,7 +1,7 @@
 ## Hi 🤙 
 ### About me 👤
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=1000&lines=I+am+a+Python+Developer+and+Machine+Learning+Engineer+from+Poland.;I+am+a+Python+Developer+and+Machine+Learning+Enthusiast+from+Poland.)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=3000&color=20CA1E&multiline=true&width=700&height=100&lines=I'm+a+Python+Developer+and+Machine+Learning+Enginee;I'm+a+Python+Developer+and+Machine+Learning+Enthusiast.)](https://git.io/typing-svg)
 
 ##### I'm currently working on 🐜
 
