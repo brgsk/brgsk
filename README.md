@@ -1,7 +1,7 @@
 ## Hi 🤙 
 ### About me 👤
 
-I am a Python Developer / Machine Learning ~~Engineer~~ Enthusiast from Poland.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=1000&lines=I+am+a+Python+Developer+and+Machine+Learning+Engineer+from+Poland.;I+am+a+Python+Developer+and+Machine+Learning+Enthusiast+from+Poland.)](https://git.io/typing-svg) 
 
 ##### I'm currently working on 🐜
 
