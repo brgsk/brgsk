@@ -31,7 +31,7 @@
 
 ### :telephone_receiver: Contact
 
-- [mail](flxeh0ex@anonaddy.me)
+- [mail](mailto:flxeh0ex@anonaddy.me)
 - [linkedin](https://www.linkedin.com/in/bartosz-roguski-04206a163/)
 
 <!-- ![ja](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white) -->
