@@ -3,8 +3,8 @@
 
 ##### What I'm doing
 
-- Filmder - Tinder (but for couples) for finding films
-- OCR for receipt validation
+- Filmder - Tinder (but for couples) for finding movies to watch
+<!-- - OCR for receipt validation -->
 
 ##### What I have done / been doing 
 
